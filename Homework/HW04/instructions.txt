@@ -1,0 +1,47 @@
+
+Read the first section of Chapter 4 (Case Study: Interface Design): “The turtle module” 
+in the textbook.
+In the Python editor IDLE, create and save a Python file that is named, if your name is 
+Harry Houdini, for example, py and begins with a comment containing your name, class and 
+section, the posting date and number of the homework assignment. Use either a block comment 
+or one-line comment style. Example:
+"""
+Harry Houdini
+CS 100 2018S Section 004
+HW 03, January 29, 2018
+"""
+or
+# Harry Houdini
+# CS 100 2018S Section 004
+# HW 03, January 29, 2018
+
+ 
+
+Write code that uses turtle graphics to draw an equilateral triangle, a square and a 
+regular pentagon, each with side length 100.
+Write code that uses turtle graphics to draw four concentric circles of radius 50, 100, 150 and 200.
+Write code that uses the Python math module to compute and print out the values of
+    100!
+    the log (base 2) of 1,000,000
+    the greatest common divisor of 63 and 49
+
+Write a program that asks the user for a color, a line width, a line length and a shape. 
+Assume that the user will specify a shape that is either a line, a triangle, or a square. 
+Use turtle graphics to draw the shape that the user requests of the size, color, line width 
+and line length that the user requests. For example, if these are the user choices for 
+color, width, line length and shape, the blue triangle below would be correct graphical output
+
+what color? blue
+what line width? 25
+what line length? 100
+line, triangle or square? triangle
+image.png
+Hint
+
+There is a description of each function in the math module in the Python documentation, 
+which you can access through IDLE from the Help menu as follows:
+
+    Help ® Python Docs ® Python Module Index ® math
+
+If you are using an alternate IDE, visit https://docs.python.org/3/library/math.html
+Links to an external site. to browse the documentation online, or download a copy of your own.
