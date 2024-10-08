@@ -1,0 +1,55 @@
+Do all of the items below and submit a text file created with the IDLE editor 
+(or other editor) with the extension .py via Canvas. If you run into a problem, 
+post to Canvas weekly discussions describing where you ran into trouble or email 
+your instructor or classroom assistant, or ask your question during recitation 
+hours. If you know the answer to someone’s question, consider posting a response 
+in the Canvas weekly discussions. This is a great way to enhance your participation 
+and understanding.
+
+    Read Chapter 5 (Conditionals and Recursion) in the textbook. You may skip the 
+    following sections: Recursion, Stack Diagrams for Recursive Functions, and Infinite Recursion.
+    In the Python editor IDLE (or other editor), create and save a Python file that 
+    is named, if your name is Harry Houdini, for example, py and begins with a comment 
+    containing your name, class and section, the posting date and number of the homework assignment.
+
+    Write Python code that does the following:
+        Assigns the values 3, 4 and 5 to the variables a, b and c, respectively.
+        Write an if statement that prints “OK” if a is less than b
+        Write an if statement that prints “OK” if c is less than b
+        Write an if statement that prints “OK” if the sum of a and b is equal 
+        to c
+        Write an if statement that prints “OK” if the sum of a squared and b 
+        squared equals c squared.
+    Repeat the previous problem with the additional requirement that “NOT OK” 
+    is printed if the condition is false.
+
+    If you are given three sticks, you may or may not be able to arrange them 
+    in a triangle. For example, if one of the sticks is 12 inches long and the 
+    other two are one inch long, you will not be able to get the short sticks 
+    to meet in the middle. For any three lengths, there is a simple test to 
+    see if it is possible to form a triangle: If any of the three lengths is 
+    greater than the sum of the other two, then you cannot form a triangle. 
+    Otherwise, you can. (If the sum of two lengths equals the third, they 
+    form what is called a “degenerate” triangle.)
+    Write a program that prompts the user to input three stick lengths and 
+    prints to the screen whether you can or cannot form a triangle from these 
+    sticks. The message should specify when a degenerate triangle is formed.
+    The following are three examples of program input/output:
+
+Enter the lengths of three sticks:
+Length of the first stick: 3
+Length of the second stick: 4
+Length of the third stick: 5
+The sticks can form a triangle.
+
+Enter the lengths of three sticks:
+Length of the first stick: 1
+Length of the second stick: 2
+Length of the third stick: 3
+The sticks form a degenerate triangle.
+
+Enter the lengths of three sticks:
+Length of the first stick: 3
+Length of the second stick: 2
+Length of the third stick: 7
+The sticks cannot form a triangle.
