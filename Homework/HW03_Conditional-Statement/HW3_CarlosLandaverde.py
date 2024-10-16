@@ -1,10 +1,3 @@
-'''
-Carlos Landaverde
-CS 100 Section 001
-Homework 3
-11/19/2024
-'''
-
 # 1
 a = 3 # assigning the values to a, b and c
 b = 4
