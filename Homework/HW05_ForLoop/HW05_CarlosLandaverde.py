@@ -1,9 +1,3 @@
-"""
-Carlos Landaverde
-CS 100 Section 001
-HW 04, October 15, 2024
-"""
-
 months = [ # creating a list with all months of the year
     "January", 
     "February", 
