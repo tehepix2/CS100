@@ -1,8 +1,3 @@
-"""
-Carlos Landaverde
-CS 100 FA24-CS100001
-HW 02, September 12, 2024
-"""
 #1 
 grades = [] # initialize the grades list
 grades.append('A') 
