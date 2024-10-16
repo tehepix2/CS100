@@ -1,9 +1,3 @@
-"""
-Carlos Landaverde
-CS 100001 
-HW 01, September 9, 2024
-"""
-
 week = 7 #7 days in a week
 foot = 12 #12 inches in a foot
 hands = 2 #2 hands on a person
