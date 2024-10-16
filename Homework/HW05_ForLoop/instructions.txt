@@ -1,0 +1,25 @@
+Read the Python tutorial sections 4.1, 4.2, 4.3. The Python tutorial can be accessed through 
+the documentation installed with IDLE:
+Help ® Python Docs ® Tutorial ® More Control Flow Tools
+If you are using an alternate IDE, visit:
+    https://docs.python.org/3/tutorial/controlflow.html#more-control-flow-tools
+
+    Links to an external site.
+    to browse the tutorial online.
+    In the Python editor IDLE, create and save a Python file that is named, if your name is 
+    Harry Houdini, for example, py and begins with a comment containing your name, class and section, 
+    the posting date and number of the homework assignment.
+
+Write a program that implements the following exercises:
+
+    Create a list named months of the months of the year. Write a for loop that iterates over the 
+    elements of months and prints out each one that begins with letter 'J', one month per line.
+
+Write a for loop that iterates over all of the integers in the range 0 through 99, inclusive, 
+and prints out all of those numbers that are divisible by both 2 and 5.
+    
+Consider the strings created by these assignment statements:
+
+    horton = "A person's a person, no matter how small."
+    vowels = "aeiouAEIOU"
+    Write a for loop that prints out all the vowels in horton in the order they appear.
